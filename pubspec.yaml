@@ -67,11 +67,6 @@ flutter:
     - assets/rive_animations/
     - assets/pdfs/
 
-  color_picker_camera:
-  
-  import 'package:color_picker_camera/color_picker_camera.dart'; String colorCode = await ColorPickerCamera.captureColorFromCamera;
-
-
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
